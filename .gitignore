@@ -1,1 +1,6 @@
 
+
+/.quarto/
+
+*_files
+_site
